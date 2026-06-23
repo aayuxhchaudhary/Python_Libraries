@@ -1,0 +1,10 @@
+[
+  {"name":"Sahil","age":24,"marks":90,"city":"Delhi"},
+  {"name":"Jahil","age":25,"marks":95,"city":"Delhi"},
+  {"name":"Riya","age":22,"marks":85,"city":"Mumbai"},
+  {"name":"Aman","age":23,"marks":88,"city":"Pune"},
+  {"name":"Neha","age":21,"marks":92,"city":"Bangalore"},
+  {"name":"Karan","age":25,"marks":78,"city":"Chennai"},
+  {"name":"Priya","age":20,"marks":95,"city":"Jaipur"},
+  {"name":"Arjun","age":24,"marks":81,"city":"Hyderabad"}
+]

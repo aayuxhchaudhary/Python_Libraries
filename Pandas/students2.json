@@ -1,0 +1,8 @@
+[
+ {"name":"Sahil","city":"Delhi","subject":"Math","marks":null},
+ {"name":"Sahil","city":"Delhi","subject":"Science","marks":85},
+ {"name":"Riya","city":"Mumbai","subject":"Math","marks":null},
+ {"name":"Riya","city":"Mumbai","subject":"Science","marks":92},
+ {"name":"Aman","city":"Delhi","subject":"Math","marks":78},
+ {"name":"Aman","city":"Delhi","subject":"Science","marks":80}
+]

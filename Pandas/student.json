@@ -1,0 +1,6 @@
+[
+ {"name":"Sahil","age":24,"Eng":90,"Hindi":80,"Maths":90,"city":"Delhi"},
+ {"name":"Riya","age":22,"Eng":85,"Hindi":80,"Maths":70,"city":"Mumbai"},
+ {"name":"Aman","age":23,"Eng":88,"Hindi":80,"Maths":70,"city":"Pune"},
+ {"name":"Neha","age":21,"Eng":92,"Hindi":80,"Maths":70,"city":"Bangalore"}
+]

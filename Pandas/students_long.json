@@ -1,0 +1,13 @@
+[
+ {"name":"Sahil","subject":"Math","marks":90},
+ {"name":"Sahil","subject":"Science","marks":81},
+ {"name":"Sahil","subject":"English","marks":88},
+
+ {"name":"Riya","subject":"Math","marks":84},
+ {"name":"Riya","subject":"Science","marks":92},
+ {"name":"Riya","subject":"English","marks":95},
+
+ {"name":"Aman","subject":"Math","marks":78},
+ {"name":"Aman","subject":"Science","marks":80},
+ {"name":"Aman","subject":"English","marks":75}
+]
